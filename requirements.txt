@@ -15,12 +15,16 @@ openai
 # Hugging Face stack
 huggingface-hub
 torch
+torchvision
 transformers
 sentence-transformers
 
 # Data & ML
 numpy
 scikit-learn
+
+# UI
+streamlit
 
 # Utilities
 python-dotenv
