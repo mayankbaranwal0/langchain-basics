@@ -28,3 +28,4 @@ streamlit
 
 # Utilities
 python-dotenv
+pydantic[email]  # email extra adds email-validator for EmailStr
